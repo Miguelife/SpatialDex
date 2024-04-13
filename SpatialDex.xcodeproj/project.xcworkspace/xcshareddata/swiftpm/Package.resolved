@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "triplea",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fsalom/tripleA",
+      "state" : {
+        "revision" : "62eb3248058242011730322f609a045aa24e5571",
+        "version" : "1.0.18"
+      }
+    }
+  ],
+  "version" : 2
+}
